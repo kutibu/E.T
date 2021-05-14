@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "nom": "Teffahi",
+    "prenom": "Ryan",
+    "dateNaissance": "22052000",
+    "AdressePostal": "Oui",
+    "mail": "ryan@gmail.com",
+    "telephone": "032128541"
+  },
+  {
+    "id": 2,
+    "nom": "Peuthevynck",
+    "prenom": "Benoit",
+    "dateNaissance": "22052000",
+    "AdressePostal": "Oui",
+    "mail": "benoit@gmail.com",
+    "telephone": "032128541"
+  }
+]
