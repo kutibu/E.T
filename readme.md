@@ -33,14 +33,14 @@ Nous allons devoir tester si les valeurs entrée lors de l'ajout d'un contact so
 
 &nbsp;
 
-1. Installer node_module `npm init`.
-2. Installer MongoDb `npm install mongodb --save`.
-3. Installer Mongoose `npm install mongoose`.
+1. Installer node_module `npm init`
+2. Installer MongoDb `npm install mongodb --save`
+3. Installer Mongoose `npm install mongoose`
 4. Installer Jest `npm install jest`
-5. Installer Cucumber `npm install -g cucumber`.
-6. Configurer Cucumber `npm install --save-dev cucumber`. 
-7. Installer Selenium Web Driver `npm install selenium-webdriver`.
-8. Installer chromedriver `npm install -g chromedriver`.
+5. Installer Cucumber `npm install -g cucumber`
+6. Configurer Cucumber `npm install --save-dev cucumber`
+7. Installer Selenium Web Driver `npm install selenium-webdriver`
+8. Installer chromedriver `npm install -g chromedriver`
 
 &nbsp;
 
